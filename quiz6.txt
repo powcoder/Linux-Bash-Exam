@@ -1,0 +1,43 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+Quiz 6 | 10 Marks | Regular Expressions (grep)
+==============================================
+
+
+---- content of cars file starts below this line ---
+plym    fury    77      73      2500
+chevy   nova    79      60      3000
+ford    mustang 65      45      17000
+---- content of cars file ends above this line ---
+
+
+
+1. Briefly describe your experiences learning regular expressions this semester. Give two examples
+   where you made recent use of regular expressions. (min: 6 sentences) [3 marks]?
+
+A:
+
+
+2. Using grep, write the entire command line to get all cars made in the 70s (third column). Use the
+   file cars shown above [2 marks].
+
+
+A:
+
+
+3. What is the output from the line below when run on the file cars above? [2 marks]
+
+    grep -E " .[^37](5|0)00$" cars
+
+A:
+
+
+4. Explain your answers to BOTH questions 2 and 3 above. [3 marks]
+
+A:
